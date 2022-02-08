@@ -13,3 +13,7 @@
 <div align="center"> 
   <img width="486" alt="calculadora de gorjeta-inicial" src="https://user-images.githubusercontent.com/89019231/153030815-0368871f-8972-4c52-acad-7200a9622032.png"
 </div>
+ 
+ ## A calculadora em uso: 
+ <div align="center">
+  <img width="488" 
