@@ -16,4 +16,5 @@
  
  ## A calculadora em uso: 
  <div align="center">
-  <img width="488" 
+   <img width="488" alt="calculadora de gorjeta-utilizando" src="https://user-images.githubusercontent.com/89019231/153032303-7265474f-13e4-4b07-b89a-252b55b46060.png"
+ </div>
