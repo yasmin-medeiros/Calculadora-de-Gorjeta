@@ -5,6 +5,7 @@
 
 ## Tecnologias 🌐👩🏻‍💻
 <p align="justify">As seguintes ferramentas foram usadas na construção do projeto: </p>
+
  - CSS
  - HTML
  - JavaScript 
