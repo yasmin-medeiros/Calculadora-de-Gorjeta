@@ -16,7 +16,8 @@
   <img width="486" alt="calculadora de gorjeta-inicial" src="https://user-images.githubusercontent.com/89019231/153030815-0368871f-8972-4c52-acad-7200a9622032.png"
 </div>
  
- ## Projeto em uso: 👁‍🗨 
+ ## Projeto em uso 🚀
+ 
  <div align="center">
    <img width="468" alt="calculadora de gorjeta-utilizando" src="https://user-images.githubusercontent.com/89019231/153032303-7265474f-13e4-4b07-b89a-252b55b46060.png"
  </div>
